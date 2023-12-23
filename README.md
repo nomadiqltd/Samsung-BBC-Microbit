@@ -8,8 +8,9 @@ Google Play link: https://play.google.com/store/apps/details?id=com.samsung.micr
 
 <p float="left">
 <img src="https://cloud.githubusercontent.com/assets/14942202/22804074/5d9a88c0-ef0f-11e6-802a-0d5b8db1cd83.png" width="250">
-
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://cloud.githubusercontent.com/assets/14942202/22804256/27dfe38c-ef10-11e6-9389-c67122dab82a.png" width="250">
-
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://cloud.githubusercontent.com/assets/14942202/22804270/3a583834-ef10-11e6-916c-43410ffff550.png" width="250">
+&nbsp; &nbsp; &nbsp; &nbsp;
 </p>
